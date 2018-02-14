@@ -1,4 +1,4 @@
-﻿@import url("http://fast.fonts.net/t/1.css?apiType=css&projectid=6b42cd51-010e-4ea9-bc8f-f65d10f92a58");
+﻿
 h1, h2, h3, h4, h5, h6, p, blockquote, figure, section, ol, ul {
     margin: 0;
     padding: 0
@@ -659,50 +659,19 @@ body {
     padding: 0 2.5rem;
     margin: 0 auto
 }
-@font-face {
-    font-family: 'montserrat';
-    src: url("../fonts/montserrat/montserrat-bold-webfont.eot");
-    src: url("../fonts/montserrat/montserrat-bold-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/montserrat/montserrat-bold-webfont.woff2") format("woff2"), url("../fonts/montserrat/montserrat-bold-webfont.woff") format("woff"), url("../fonts/montserrat/montserrat-bold-webfont.ttf") format("truetype"), url("../fonts/montserrat/montserrat-bold-webfont.svg#montserratbold") format("svg");
-    font-weight: 900;
-    font-style: normal
-}
+
 .lg-text, .lg-monst, .md-monst, .more-btn, #newsletter-form input, #newsletter-form #mc_embed_signup input, #mc_embed_signup input, .headline .sub-headline, .tinymce h1, .tinymce h2, .form-input-dropdown, .form-input, .home__hero .tagline, .workshop-header__bottom ul li, article .text-wrap .sm-link, .service-grid .text-wrap .sm-link, article .text-wrap ul.tags li, .service-grid .text-wrap ul.tags li {
     font-family: 'montserrat';
     font-weight: 900;
     font-style: normal
 }
-@font-face {
-    font-family: 'montserrat';
-    src: url("../fonts/montserrat/montserrat-regular-webfont.eot");
-    src: url("../fonts/montserrat/montserrat-regular-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/montserrat/montserrat-regular-webfont.woff2") format("woff2"), url("../fonts/montserrat/montserrat-regular-webfont.woff") format("woff"), url("../fonts/montserrat/montserrat-regular-webfont.ttf") format("truetype"), url("../fonts/montserrat/montserrat-regular-webfont.svg#montserratregular") format("svg");
-    font-weight: 100;
-    font-style: normal
-}
+
 .bottom-bar span, .workshop-header__logo span {
     font-family: 'montserrat';
     font-weight: 100;
     font-style: normal
 }
-@font-face {
-    font-family: "ITC Century W01 Book";
-    src: url("../fonts/century/34bdfb95-ecc9-425e-9fc9-871696c5c4d8.eot?#iefix");
-    src: url("../fonts/century/34bdfb95-ecc9-425e-9fc9-871696c5c4d8.eot?#iefix") format("eot"), url("../fonts/century/94ca6cf1-5688-4f93-9901-5f01e1c5b845.woff2") format("woff2"), url("../fonts/century/d1d878f1-1eed-46bf-ac30-069a1ba84787.woff") format("woff"), url("../fonts/century/e7f0a599-5795-4940-b7b1-c6214f8dda5e.ttf") format("truetype"), url("../fonts/century/f4726f88-8823-4fc2-b15e-d0da10839700.svg#f4726f88-8823-4fc2-b15e-d0da10839700") format("svg")
-}
-@font-face {
-    font-family: "ITC Century W01 Book Italic";
-    src: url("../fonts/century/6fcecc99-90e9-4218-b73b-4e18464e084a.eot?#iefix");
-    src: url("../fonts/century/6fcecc99-90e9-4218-b73b-4e18464e084a.eot?#iefix") format("eot"), url("../fonts/century/095aa014-1cea-4fb0-862a-04319931a513.woff2") format("woff2"), url("../fonts/century/fd234bbf-45e6-4b79-98c6-914ee5fb8007.woff") format("woff"), url("../fonts/century/f3abf79b-ab2d-4dd2-9841-2974e2554b37.ttf") format("truetype"), url("../fonts/century/ea7ddad5-7940-4900-ab7e-f5002add11d2.svg#ea7ddad5-7940-4900-ab7e-f5002add11d2") format("svg")
-}
-@font-face {
-    font-family: "ITC Century W01 Bold";
-    src: url("../fonts/century/3de7f2e0-0f45-48aa-8152-3cc713d36b71.eot?#iefix");
-    src: url("../fonts/century/3de7f2e0-0f45-48aa-8152-3cc713d36b71.eot?#iefix") format("eot"), url("../fonts/century/987ac998-a146-4433-a739-c2e773f75b1b.woff2") format("woff2"), url("../fonts/century/7d920ba3-4163-4867-a9f3-a31d4885929f.woff") format("woff"), url("../fonts/century/ca799342-2c8d-4369-ac25-598129be8384.ttf") format("truetype"), url("../fonts/century/2adbbc9d-e78b-485b-8bb0-afb5979ad60a.svg#2adbbc9d-e78b-485b-8bb0-afb5979ad60a") format("svg")
-}
-@font-face {
-    font-family: "ITC Century W01 Bold Italic";
-    src: url("../fonts/century/5633d856-138a-449e-a7c0-d06bcf929e74.eot?#iefix");
-    src: url("../fonts/century/5633d856-138a-449e-a7c0-d06bcf929e74.eot?#iefix") format("eot"), url("../fonts/century/024867b5-4168-4781-8b86-c07561c99070.woff2") format("woff2"), url("../fonts/century/a42a926e-420a-45ed-863f-000a9043ab55.woff") format("woff"), url("../fonts/century/c9f3f84a-7f88-49f4-949c-06a09575a169.ttf") format("truetype"), url("../fonts/century/37366c32-5d6d-4d2e-a99b-3280c43e9b06.svg#37366c32-5d6d-4d2e-a99b-3280c43e9b06") format("svg")
-}
+
 .h2-casestudy, .h1-shortstories, .lg-century, .mobile-takeover nav .mobile-navigation a, .md-century, .xs-century, .footer .h3, .tinymce h4, .tinymce h6, .tinymce blockquote p, .mobile-header .text-wrap span, .case-studies__hero .hero-h2, .case-studies__logo-hero .hero-h2, .case-studies__blockquote blockquote, .contact-header .text-wrap span, .openings-header .text-wrap span {
     font-family: "ITC Century W01 Book";
     font-weight: 100;
@@ -721,80 +690,25 @@ body {
     font-family: "ITC Century W01 Bold Italic";
     font-weight: 900
 }
-@font-face {
-    font-family: 'oswald';
-    src: url("../fonts/oswald/oswald-regular-webfont.eot");
-    src: url("../fonts/oswald/oswald-regular-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/oswald/oswald-regular-webfont.woff2") format("woff2"), url("../fonts/oswald/oswald-regular-webfont.woff") format("woff"), url("../fonts/oswald/oswald-regular-webfont.ttf") format("truetype"), url("../fonts/oswald/oswald-regular-webfont.svg#oswald_regularregular") format("svg");
-    font-weight: 100;
-    font-style: normal
-}
-.h3, .button--gold, .button--black, .topbar__navigation li a, .mobile-open, .form-submit, .nf-response-msg .h3, .nf-error-msg, .workshop-header__left .date, .short-stories .background span {
-    font-family: 'oswald';
-    font-weight: 100;
-    font-style: normal
-}
-@font-face {
-    font-family: 'oswald';
-    src: url("../fonts/oswald/oswald-regularitalic-webfont.eot");
-    src: url("../fonts/oswald/oswald-regularitalic-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/oswald/oswald-regularitalic-webfont.woff2") format("woff2"), url("../fonts/oswald/oswald-regularitalic-webfont.woff") format("woff"), url("../fonts/oswald/oswald-regularitalic-webfont.ttf") format("truetype"), url("../fonts/oswald/oswald-regularitalic-webfont.svg#oswaldregular") format("svg");
-    font-weight: 100;
-    font-style: italic
-}
-@font-face {
-    font-family: 'oswald';
-    src: url("../fonts/oswald/oswald-bold-webfont.eot");
-    src: url("../fonts/oswald/oswald-bold-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/oswald/oswald-bold-webfont.woff2") format("woff2"), url("../fonts/oswald/oswald-bold-webfont.woff") format("woff"), url("../fonts/oswald/oswald-bold-webfont.ttf") format("truetype"), url("../fonts/oswald/oswald-bold-webfont.svg#oswaldbold") format("svg");
-    font-weight: 900;
-    font-style: normal
-}
-@font-face {
-    font-family: 'oswald';
-    src: url("../fonts/oswald/oswald-bolditalic-webfont.eot");
-    src: url("../fonts/oswald/oswald-bolditalic-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/oswald/oswald-bolditalic-webfont.woff2") format("woff2"), url("../fonts/oswald/oswald-bolditalic-webfont.woff") format("woff"), url("../fonts/oswald/oswald-bolditalic-webfont.ttf") format("truetype"), url("../fonts/oswald/oswald-bolditalic-webfont.svg#oswaldbold") format("svg");
-    font-weight: 900;
-    font-style: italic
-}
-@font-face {
-    font-family: 'leaguegothic';
-    src: url("../fonts/leaguegothic/leaguegothic-regular-webfont.eot");
-    src: url("../fonts/leaguegothic/leaguegothic-regular-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/leaguegothic/leaguegothic-regular-webfont.woff2") format("woff2"), url("../fonts/leaguegothic/leaguegothic-regular-webfont.woff") format("woff"), url("../fonts/leaguegothic/leaguegothic-regular-webfont.ttf") format("truetype"), url("../fonts/leaguegothic/leaguegothic-regular-webfont.svg#league_gothicregular") format("svg");
-    font-weight: normal;
-    font-style: normal
-}
+
 .h1, .h2, .h1-casestudy, .h5, .h6, .testimonial-author, .mobile-header .text-wrap .h1, .case-studies__blockquote .caption, .contact-header .text-wrap .h1, .openings-header .text-wrap .h1 {
     font-family: 'leaguegothic';
     font-weight: 100;
     font-style: normal
 }
-@font-face {
-    font-family: 'lyon';
-    src: url("../fonts/lyon/lyon_bold-webfont.eot");
-    src: url("../fonts/lyon/lyon_bold-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/lyon/lyon_bold-webfont.woff2") format("woff2"), url("../fonts/lyon/lyon_bold-webfont.woff") format("woff"), url("../fonts/lyon/lyon_bold-webfont.ttf") format("truetype"), url("../fonts/lyon/lyon_bold-webfont.svg#lyonbold") format("svg");
-    font-weight: normal;
-    font-style: normal
-}
+
 .h4, #nf-field-9-container:before, #nf-field-10-container:before, #nf-field-11-container:before, #nf-field-12-container:before, #nf-field-13-container:before, #nf-field-14-container:before, .case-studies .workshop-links .back-btn {
     font-family: 'lyon';
     font-weight: normal;
     font-style: normal
 }
-@font-face {
-    font-family: "oldenglish";
-    src: url("../fonts/oldenglish/c685650a-d30c-461f-afce-f698c63c628e.eot?#iefix");
-    src: url("../fonts/oldenglish/c685650a-d30c-461f-afce-f698c63c628e.eot?#iefix") format("eot"), url("../fonts/oldenglish/cd56fe9d-b595-49cb-89aa-bb3aef776688.woff2") format("woff2"), url("../fonts/oldenglish/6431b6b5-72b1-4616-bf27-1b52c5a0ec80.woff") format("woff"), url("../fonts/oldenglish/8620ae03-5d7b-43ee-8254-29589af27a06.ttf") format("truetype"), url("../fonts/oldenglish/a8d59f67-49d0-43b4-90d8-ab5ac02fcd42.svg#a8d59f67-49d0-43b4-90d8-ab5ac02fcd42") format("svg")
-}
+
 .tinymce .wpsdc-drop-cap {
     font-family: 'oldenglish';
     font-weight: 100;
     font-style: normal
 }
-@font-face {
-    font-family: 'icomoon';
-    src: url("../fonts/icons/icomoon.eot?ohim50");
-    src: url("../fonts/icons/icomoon.eot?ohim50#iefix") format("embedded-opentype"), url("../fonts/icons/icomoon.ttf?ohim50") format("truetype"), url("../fonts/icons/icomoon.woff?ohim50") format("woff"), url("../fonts/icons/icomoon.svg?ohim50#icomoon") format("svg");
-    font-weight: normal;
-    font-style: normal
-}
+
 .icon-arrow-up {
     content: "\e900"
 }
@@ -2475,7 +2389,7 @@ body {
     position: absolute;
     width: 60px;
     height: 60px;
-    background-image: url("../../assets/png/glare.png");
+   
     left: -60px;
     opacity: .75
 }
@@ -4114,7 +4028,7 @@ color:#E80000
     height: 185px;
     background-repeat: no-repeat;
     background-size: 185px 185px;
-    background-image: url("../../assets/svg/test-star.svg");
+    
     -webkit-animation: test-spin 15s linear infinite;
     -moz-animation: test-spin 15s linear infinite;
     animation: test-spin 15s linear infinite;
