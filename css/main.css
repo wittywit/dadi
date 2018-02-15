@@ -5044,7 +5044,7 @@ video {
     height: auto;
     z-index: 0;
     transform: translateX(-50%) translateY(-50%);
-    background: url("http://sandbox.forefathersgroup.com/forefathers3/dev/wp-content/themes/forefathers/assets/video/video-bg.jpg") no-repeat;
+    background: url("https://github.com/wittywit/dadi/blob/master/images/poster.jpg") no-repeat;
     background-size: cover;
     opacity: .4
 }
